@@ -95,6 +95,7 @@ void blinkLED() {
   delay(blinkingTime);
 }
 
+// Code by <a href=https://github.com/Myrandde">Myrandde</a>
 void bahayKubo() {
   int tempo = 2000;
   play(G4, tempo / 4);
