@@ -23,13 +23,13 @@ void loop() {
   sendUltrasonicWaves();
   digitalWrite(triggerPin, LOW);
   int travelTime = pulseIn(echoPin, HIGH);
-  float distance = travelTime / 58;
+  float distance = travelTime / 58.;
   Serial.println(distance);
   delay(pulseDelay);
 
-  if (distance < 1.5) switchLEDs(1, 0, 0);
-  if (distance > 1.5 && distance < 2.5) switchLEDs(0, 1, 0);
-  if (distance > 2.5) switchLEDs(0, 0, 1);
+  if (distance < 15.) switchLEDs(1, 0, 0);
+  if (distance > 15. && distance < 25.) switchLEDs(0, 1, 0);
+  if (distance > 25.) switchLEDs(0, 0, 1);
 }
 
 void sendUltrasonicWaves() {
