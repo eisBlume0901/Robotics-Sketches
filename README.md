@@ -8,4 +8,7 @@ All lab and lecture sketches is coded by <a href="https://github.com/eisBlume090
 
 Tinker CAD circuit and code
 
-<a href="https://www.tinkercad.com/things/7ty1JCGg3q8-laboratory-activity-1-ultrasonic-sensor-and-servo-motor">Laboratory Activity 1 Ultrasonic Sensor and Servo Motor</a>
+<a href="https://www.tinkercad.com/things/7ty1JCGg3q8-laboratory-activity-1-ultrasonic-sensor-and-servo-motor?sharecode=55Vj_YEamD3OB17g4ltqvxfPY530tvruXSsrhCgz3yk">Laboratory Activity 1 Ultrasonic Sensor and Servo Motor</a>
+
+<a href="https://www.tinkercad.com/things/1DI7gxj3RvJ-laboratory-2-running-led-lights?sharecode=b7UZ1SHJrPnrUO1mnwiGXKt-Gu5zZcrnhbWifiLJewU">Laboratory 2 Running LED Lights</a>
+
